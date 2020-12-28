@@ -9,9 +9,9 @@ Note that
 - This repository does not host the source code of the app.
 - I develop Memorio as my hobby. This app is not related to my employer.
 
-# メモリオユーザ向けのトラッカーです
+# メモリオ要望トラッカー
 
-もし要望があればIssueを作ってみてください(GitHubのユーザ登録が必要です)。日本語か英語で書いてください。
+もしiOS/Androidアプリ「メモリオ」にあると便利な機能の要望があればIssueを作ってみてください(GitHubのユーザ登録が必要です)。日本語か英語で対応します。
 
 ユーザ登録のいらない[メモリオのフィードバックフォーム](
 https://docs.google.com/forms/d/e/1FAIpQLSd9rZy-nX6WKlC-OEwWZv1oFasZANsaESyCLLzLFuKgtb1OIQ/viewform)
