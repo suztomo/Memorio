@@ -11,7 +11,7 @@ Note that
 
 # メモリオ要望トラッカー
 
-もしiOS/Androidアプリ「メモリオ」にあると便利な機能の要望があればIssueを作ってみてください(GitHubのユーザ登録が必要です)。日本語か英語で対応します。
+もしiOS/Androidアプリ「メモリオ」にあると便利な機能の要望があれば[Issueを作ってみてください](https://github.com/suztomo/Memorio/issues)(GitHubのユーザ登録が必要です)。日本語か英語で対応します。
 
 ユーザ登録のいらない[メモリオのフィードバックフォーム](
 https://docs.google.com/forms/d/e/1FAIpQLSd9rZy-nX6WKlC-OEwWZv1oFasZANsaESyCLLzLFuKgtb1OIQ/viewform)
